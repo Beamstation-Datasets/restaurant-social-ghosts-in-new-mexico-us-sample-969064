@@ -1,12 +1,12 @@
 {
-  "export_job_id": "026dc83d-127f-488c-aee5-a29d5f9a77e2",
+  "export_job_id": "88dfa940-f8d5-4df6-9ce3-6a691a0df842",
   "id_short": 969064,
-  "published_at": "2026-04-16T07:03:01Z",
+  "published_at": "2026-04-19T07:42:54Z",
   "repo_name": "restaurant-social-ghosts-in-new-mexico-us-sample-969064",
   "sample_asset_name": "beamstation_969064_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/969064/beamstation_969064_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_records": 4,
   "sample_sha256": "ccf10cd127f4f2a51f41ee3f4f353b36670a9eae85dd71e3f17a1a31a45ffe2c",
   "sample_size_bytes": 28271,
-  "total_records": 49
+  "total_records": 48
 }
