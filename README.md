@@ -9,9 +9,9 @@
 | Dataset ID | `969064` |
 | Location | New Mexico |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-22T17:38:07.408055+00:00 |
+| Full dataset size | 17 records |
+| Free sample size | 1 records (5.88%) |
+| Last export | 2026-04-29T17:29:11.527935+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-new-mexico-us-sample-969064/releases/download/sample-latest/beamstation_969064_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
